@@ -1,3 +1,4 @@
+<img src="https://deploy-badge.vercel.app/vercel/nextjs-dashboard-tau-rouge-46" alt="Vercel Deploy"></img>
 ## Next.js App Router Course - Starter
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
